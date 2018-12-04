@@ -1,5 +1,7 @@
 # 硅谷归国
 
+欢迎linkedIn交流：https://www.linkedin.com/in/xiuhanhu/
+
 ## 文章的目的
 
 我回国之前一直希望有比较详尽的checklist，但是最后只有自己多方收集，加上个人的一些尽可能客观普适的思考。希望这篇文章能够让更多人完成无缝切换。按照一些常见问题的时间顺序，罗列如下：
@@ -41,7 +43,7 @@ Power of Attorney 和 Estate Planning （待展开）
 出租准备
 
 ## 科学上网
-- Google Project-Fi: 可以保留美国手机号，20刀月费打电话，10刀/G的全球漫游流量
+- Google Project-Fi: 可以保留美国手机号，20刀月费打电话短信，10刀/G的全球无墙漫游流量，可以用我的[邀请码注册](https://g.co/fi/r/MA49N7)
 - VPS + SS: 请自行参考其他科学上网教程，本人在Linode上
 
 ## 行李
